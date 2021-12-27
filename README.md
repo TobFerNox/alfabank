@@ -27,7 +27,7 @@ Nice to Have
 ***
 ## Запуск
 - Склонировать репозиторий, выполнив команду:   
-`git clone https://github.com/Fr0z3Nn/alfa-bank.git`   
+`git clone https://github.com/TobFerNox/alfabank.git`   
 - Перейдя в корневую папку проекта собрать проект:    
 `gradlew build`   
 - Собрать докер-образ с произвольным именем, в нашем случае alfa:    
